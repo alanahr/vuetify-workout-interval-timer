@@ -1,0 +1,600 @@
+{
+  "workoutName": "10/11/2025",
+  "workoutDescription": "10/11/2025",
+  "sets": [
+    {
+      "set_id": 0,
+      "setRepeat": 1,
+      "setName": "warmup",
+      "setClass": "circuit",
+      "exercises": [
+        {
+          "exerciseName": "1 march in place",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 1,
+          "uid": "1.1"
+        },
+        {
+          "exerciseName": "2 butt kickers",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 2,
+          "uid": "1.2"
+        },
+        {
+          "exerciseName": "3 oblique march",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 3,
+          "uid": "1.3"
+        },
+        {
+          "exerciseName": "4 standing crunch - alt knee",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 4,
+          "uid": "1.4"
+        },
+        {
+          "exerciseName": "5 oblique bend and twist",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 5,
+          "uid": "1.5"
+        },
+        {
+          "exerciseName": "6 hip circles",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 6,
+          "uid": "1.6"
+        },
+        {
+          "exerciseName": "7 jumping jacks",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 7,
+          "uid": "1.7"
+        },
+        {
+          "exerciseName": "8 split jacks",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 8,
+          "uid": "1.8"
+        },
+        {
+          "exerciseName": "9 prisoner squat",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 9,
+          "uid": "1.9"
+        },
+        {
+          "exerciseName": "10 180 sits",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 10,
+          "uid": "1.10"
+        },
+        {
+          "exerciseName": "11 inchworm walkout, 2 pt raise",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0,
+          "ex_no": 11,
+          "uid": "1.11"
+        },
+        {
+          "exerciseName": "12 alt lunge to knee strike",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 12,
+          "uid": "1.12"
+        },
+        {
+          "exerciseName": "13 alt knee strike steps",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 13,
+          "uid": "1.13"
+        },
+        {
+          "exerciseName": "14 plank walk in place/crocodile",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 14,
+          "uid": "1.14"
+        },
+        {
+          "exerciseName": "15 lateral plank walks",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 15,
+          "uid": "1.15"
+        },
+        {
+          "exerciseName": "16 alt. single leg deadlifts",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 16,
+          "uid": "1.16"
+        },
+        {
+          "exerciseName": "17 mini leapfrog - fwd/back",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 17,
+          "uid": "1.17"
+        },
+        {
+          "exerciseName": "18 sumo squat pivot to split lunge/pendulum",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0,
+          "ex_no": 18,
+          "uid": "1.18"
+        },
+        {
+          "exerciseName": "19 mini lat. leapfrogs/lunge touch",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 19,
+          "uid": "1.19"
+        },
+        {
+          "exerciseName": "20 football lat lunge hold",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 20,
+          "uid": "1.20"
+        },
+        {
+          "exerciseName": "21 lat shuffle touch",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 21,
+          "uid": "1.21"
+        },
+        {
+          "exerciseName": "22 skaters",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 22,
+          "uid": "1.22"
+        },
+        {
+          "exerciseName": "23 up/down dog",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 23,
+          "uid": "1.23"
+        },
+        {
+          "exerciseName": "24 arm circles",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 24,
+          "uid": "1.24"
+        },
+        {
+          "exerciseName": "25 mini 45 hurdle/tires",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 25,
+          "uid": "1.25"
+        },
+        {
+          "exerciseName": "26 toe popup",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 26,
+          "uid": "1.26"
+        },
+        {
+          "exerciseName": "27 wall slides",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 27,
+          "uid": "1.27"
+        },
+        {
+          "exerciseName": "28 boxing rolls (moving front<>back)",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 28,
+          "uid": "1.28"
+        },
+        {
+          "exerciseName": "29 fig 8 with dumbbell",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 29,
+          "uid": "1.29"
+        },
+        {
+          "exerciseName": "30 boxing rolls (moving right<>left)",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0,
+          "ex_no": 30,
+          "uid": "1.30"
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setRepeat": 1,
+      "setName": "circuit",
+      "setClass": "circuit",
+      "exercises": [
+        {
+          "exerciseName": "1A - warmup cardio - agility line runs 1 alt, tap, jump, then lat tires",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0,
+          "ex_no": 31,
+          "uid": "2.31"
+        },
+        {
+          "exerciseName": "1B - pushup + row/crocodile",
+          "workDuration": 80,
+          "restDuration": 40,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1.5,
+          "value": 0,
+          "ex_no": 32,
+          "uid": "2.32"
+        },
+        {
+          "exerciseName": "1C - fig 8 w db + lawnmower",
+          "workDuration": 80,
+          "restDuration": 40,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1.5,
+          "value": 0,
+          "ex_no": 33,
+          "uid": "2.33"
+        },
+        {
+          "exerciseName": "1D - kb swing/hot potato squat",
+          "workDuration": 80,
+          "restDuration": 40,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1.5,
+          "value": 0,
+          "ex_no": 34,
+          "uid": "2.34"
+        },
+        {
+          "exerciseName": "2A - mini hurdles/hurdles (get mat)",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0,
+          "ex_no": 35,
+          "uid": "2.35"
+        },
+        {
+          "exerciseName": "2B - band lat pulldown + squat",
+          "workDuration": 80,
+          "restDuration": 40,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5,
+          "value": 0,
+          "ex_no": 36,
+          "uid": "2.36"
+        },
+        {
+          "exerciseName": "2C - dip + bridge",
+          "workDuration": 80,
+          "restDuration": 40,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5,
+          "value": 0,
+          "ex_no": 37,
+          "uid": "2.37"
+        },
+        {
+          "exerciseName": "2D - deadlift + row",
+          "workDuration": 80,
+          "restDuration": 40,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1.5,
+          "value": 0,
+          "ex_no": 38,
+          "uid": "2.38"
+        },
+        {
+          "exerciseName": "3A - spiderman, bear, trench, slide",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0,
+          "ex_no": 39,
+          "uid": "2.39"
+        },
+        {
+          "exerciseName": "3B - v-up + crunch",
+          "workDuration": 80,
+          "restDuration": 40,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1.5,
+          "value": 0,
+          "ex_no": 40,
+          "uid": "2.40"
+        },
+        {
+          "exerciseName": "3C - butt blaster + hydrant",
+          "workDuration": 80,
+          "restDuration": 40,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5,
+          "value": 0,
+          "ex_no": 41,
+          "uid": "2.41"
+        },
+        {
+          "exerciseName": "3D v-up + scissor kicks",
+          "workDuration": 80,
+          "restDuration": 40,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1.5,
+          "value": 0,
+          "ex_no": 42,
+          "uid": "2.42"
+        },
+        {
+          "exerciseName": "4A - bosu",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0,
+          "ex_no": 43,
+          "uid": "2.43"
+        },
+        {
+          "exerciseName": "4B - 180 jump switch",
+          "workDuration": 80,
+          "restDuration": 40,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5,
+          "value": 0,
+          "ex_no": 44,
+          "uid": "2.44"
+        },
+        {
+          "exerciseName": "4C - curl to press",
+          "workDuration": 80,
+          "restDuration": 40,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5,
+          "value": 0,
+          "ex_no": 45,
+          "uid": "2.45"
+        },
+        {
+          "exerciseName": "4D - jumping alt split lunge",
+          "workDuration": 80,
+          "restDuration": 40,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5,
+          "value": 0,
+          "ex_no": 46,
+          "uid": "2.46"
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "setRepeat": 1,
+      "setName": "cardio",
+      "setClass": "cardio",
+      "exercises": [
+        {
+          "exerciseName": "1 - cardio**",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 1,
+          "value": 0,
+          "ex_no": 47,
+          "uid": "3.47"
+        },
+        {
+          "exerciseName": "2 - cardio**",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 1,
+          "value": 0,
+          "ex_no": 48,
+          "uid": "3.48"
+        },
+        {
+          "exerciseName": "3 - cardio**",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 1,
+          "value": 0,
+          "ex_no": 49,
+          "uid": "3.49"
+        },
+        {
+          "exerciseName": "4 - cardio**",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 1,
+          "value": 0,
+          "ex_no": 50,
+          "uid": "3.50"
+        }
+      ]
+    },
+    {
+      "set_id": 3,
+      "setRepeat": 1,
+      "setName": "stretch",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "stretch",
+          "workDuration": 600,
+          "restDuration": 180,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 10,
+          "value": 0,
+          "ex_no": 51,
+          "uid": "4.51"
+        }
+      ]
+    }
+  ],
+  "notes": "10/11/2025"
+}

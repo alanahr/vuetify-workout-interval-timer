@@ -1,0 +1,390 @@
+{
+  "workoutName": "10/10/23",
+  "workoutDescription": "october 3b",
+  "sets": [
+    {
+      "set_id": 0,
+      "setRepeat": 1,
+      "setName": "Circuit 1",
+      "setClass": "circuit",
+      "exercises": [
+        {
+          "exerciseName": "1: 1a oblique bend",
+          "workDuration": 65,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "1b marching",
+          "workDuration": 65,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "1c butt kickers",
+          "workDuration": 65,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "2: 1a walkout pushup ",
+          "workDuration": 65,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "1b - down knee up",
+          "workDuration": 65,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "1c - sumo",
+          "workDuration": 65,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "3: 1a - walking lunge",
+          "workDuration": 65,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "1b - plank walk",
+          "workDuration": 65,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "1c - crunches",
+          "workDuration": 65,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4: 1a - hip circle",
+          "workDuration": 65,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "1b - wall slides",
+          "workDuration": 65,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "1c - prep",
+          "workDuration": 65,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setRepeat": 1,
+      "setName": "3min rounds - 28min",
+      "setClass": "circuit",
+      "exercises": [
+        {
+          "exerciseName": "set 2 - 1 shuffle, carioca, skip",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "set 2 - 2 stairs *30, pullup *3, stairs*2, sprint *2-3",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "set 2 - 3 put shit away",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "2 - 4 stairs *30, pullup *3, stairs*2, sprint *2-3",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "2 - 5 footwork fwd, back, punching",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "2 - 6 Bosu",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "2 - 7 footwork - rolls",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "setRepeat": 1,
+      "setName": "Circuit 3",
+      "setClass": "circuit",
+      "exercises": [
+        {
+          "exerciseName": "3 - 1a - deadlift",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5
+        },
+        {
+          "exerciseName": "3 -1b - skaters",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5
+        },
+        {
+          "exerciseName": "3 -1c repeat split lunge",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5
+        },
+        {
+          "exerciseName": "3 - 2a tricep dip and bridge",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5
+        },
+        {
+          "exerciseName": "3 -2b - vup ",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1.5
+        },
+        {
+          "exerciseName": "3 -2c curl, press, raise",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5
+        },
+        {
+          "exerciseName": "3 - 3a leapfrogs",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5
+        },
+        {
+          "exerciseName": "3 -3b - rows",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5
+        },
+        {
+          "exerciseName": "3 - 3c crunch",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1.5
+        },
+        {
+          "exerciseName": "3 - 4a - wall slides again",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5
+        },
+        {
+          "exerciseName": "3 -4b stop pushup",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5
+        },
+        {
+          "exerciseName": "3 - 4c hydrant, butt blaster",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5
+        },
+        {
+          "exerciseName": "3 - 5a -abs",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1.5
+        },
+        {
+          "exerciseName": "3 -5b 180 jump",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5
+        },
+        {
+          "exerciseName": "3 - 5c - bridge ",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5
+        }
+      ]
+    },
+    {
+      "set_id": 3,
+      "setRepeat": 1,
+      "setName": "Circuit 4",
+      "setClass": "circuit",
+      "exercises": [
+        {
+          "exerciseName": "4 - 1a",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "4 - 1b",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4 - 2a",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "4 - 2b",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4 - 3a short",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4 - 3b short",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4 - 3c short",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4 - 3d short",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 4,
+      "setRepeat": 1,
+      "setName": "stretch",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "streth",
+          "workDuration": 900,
+          "restDuration": 2,
+          "exercisePic": "stretch_lyingButt.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 10
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "workoutName": "Core & Strength",
+  "sets": [
+    {
+      "setName": "Warm Up",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "Light Cardio",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 2,
+          "exercisePic": "",
+          "workDuration": 120,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Cat-Cow Stretch",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        }
+      ]
+    },
+    {
+      "setName": "Core Block",
+      "setRepeat": 3,
+      "exercises": [
+        {
+          "exerciseName": "Plank",
+          "exerciseStyle": "core",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Bicycle Crunches",
+          "exerciseStyle": "core",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Leg Raises",
+          "exerciseStyle": "core",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Rest",
+          "exerciseStyle": "rest",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        }
+      ]
+    },
+    {
+      "setName": "Strength Block",
+      "setRepeat": 3,
+      "exercises": [
+        {
+          "exerciseName": "Push-Ups",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Bodyweight Rows",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Squats",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Rest",
+          "exerciseStyle": "rest",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        }
+      ]
+    },
+    {
+      "setName": "Cool Down",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "Full Body Stretch",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 4,
+          "exercisePic": "",
+          "workDuration": 240,
+          "restDuration": 0
+        }
+      ]
+    }
+  ]
+}

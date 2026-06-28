@@ -1,0 +1,567 @@
+{
+  "workoutName": "45 minutes",
+  "workoutDescription": "a workout to just get through",
+  "sets": [
+    {
+      "set_id": 0,
+      "setName": "A",
+      "setClass": "warmup",
+      "setDescription": "2/:20 x1 and 1:00/:20 x3",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "cardio 1",
+          "workDuration": 120,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 2
+        },
+        {
+          "exerciseName": "strength A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "strength B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "strength A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "cardio 2",
+          "workDuration": 120,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 2
+        },
+        {
+          "exerciseName": "strength A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "strength B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "strength A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "cardio 3",
+          "workDuration": 120,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 2
+        },
+        {
+          "exerciseName": "strength A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "strength B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "strength A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "cardio 4",
+          "workDuration": 120,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 2
+        },
+        {
+          "exerciseName": "strength A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "strength B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "strength A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "cardio 5",
+          "workDuration": 120,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 2
+        },
+        {
+          "exerciseName": "strength A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "strength B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "strength A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "cardio 6",
+          "workDuration": 120,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 2
+        },
+        {
+          "exerciseName": "strength A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "strength B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "strength A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "cardio 7",
+          "workDuration": 120,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 2
+        },
+        {
+          "exerciseName": "strength A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "strength B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "strength A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "cardio 8",
+          "workDuration": 120,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 2
+        },
+        {
+          "exerciseName": "strength A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "strength B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "strength A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "setRepeat": 1,
+      "setName": "C: boxing form and footwork - 20 min",
+      "setClass": "footwork",
+      "exercises": [
+        {
+          "exerciseName": "pivot in place, torso twist",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "square footwork R/L >",
+          "workDuration": 110,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 2
+        },
+        {
+          "exerciseName": "square footwork R/L <",
+          "workDuration": 110,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 2
+        },
+        {
+          "exerciseName": "angled R",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "angled L",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "fig 8 <> + step in",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "fig 8 + pivot",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "low advance/retreat",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "R stance - jabs, dbl",
+          "workDuration": 15,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "R stance - cross",
+          "workDuration": 15,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "R stance - double jab",
+          "workDuration": 15,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "R stance - step in cross",
+          "workDuration": 15,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "R stance - uppercuts",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "R stance - hooks",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "180 sit x3 switch",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "fwd back rolls",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "fwd back rolls + upper",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "lateral rolls",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "lateral dbl step rolls",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 3,
+      "setRepeat": 1,
+      "setName": "D: double end bag",
+      "setClass": "doubleendbag",
+      "exercises": [
+        {
+          "exerciseName": "move bag and prep",
+          "workDuration": 160,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 0
+        },
+        {
+          "exerciseName": "inout 1, inout 2, etc.",
+          "workDuration": 120,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 2
+        },
+        {
+          "exerciseName": "in out, 1, inout, 1-1, inout 1-S-2-S",
+          "workDuration": 120,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 2
+        },
+        {
+          "exerciseName": "circling 2-3 rolls, 3-4 roll",
+          "workDuration": 120,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 2
+        },
+        {
+          "exerciseName": "in place rolls and counter",
+          "workDuration": 120,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 2
+        },
+        {
+          "exerciseName": "in place uppers",
+          "workDuration": 120,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 2
+        }
+      ]
+    },
+    {
+      "set_id": 4,
+      "setRepeat": 1,
+      "setName": "E: heavy bag",
+      "setClass": "heavybag",
+      "exercises": [
+        {
+          "exerciseName": "move bag and prep",
+          "workDuration": 120,
+          "restDuration": 40,
+          "exercisePic": "",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 0
+        },
+        {
+          "exerciseName": "1-6, 6-1",
+          "workDuration": 120,
+          "restDuration": 40,
+          "exercisePic": "",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 2
+        },
+        {
+          "exerciseName": "1-3-5, 2-4-6, 6-4-2, 5-3-1",
+          "workDuration": 120,
+          "restDuration": 40,
+          "exercisePic": "",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 2
+        },
+        {
+          "exerciseName": "circle 2-R-3-R, 4-R-3-R",
+          "workDuration": 120,
+          "restDuration": 40,
+          "exercisePic": "",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 2
+        },
+        {
+          "exerciseName": "2-Rin-2-Rout, 3-Rin-3-Rout",
+          "workDuration": 120,
+          "restDuration": 40,
+          "exercisePic": "",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 2
+        },
+        {
+          "exerciseName": "speed drills - 20sec",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "speed drills - 10sec",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 2
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setRepeat": 1,
+      "setName": "B: stretch",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "do short stretch!",
+          "workDuration": 600,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0
+        }
+      ]
+    }
+  ]
+}

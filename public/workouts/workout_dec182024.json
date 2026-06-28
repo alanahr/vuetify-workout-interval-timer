@@ -1,0 +1,312 @@
+{
+  "workoutName": "12/18/2024",
+  "workoutDescription": "12/18/2024",
+  "sets": [
+    {
+      "set_id": 0,
+      "setRepeat": 1,
+      "setName": "Boxing warmup",
+      "setClass": "circuit",
+      "exercises": [
+        {
+          "exerciseName": "move in place",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "2 - rope - easy",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "3 - shuffle, carioca, skip",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "4a - stance work, in place, pivot",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "4b - step and pivot",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "cardio_footwork",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "4c -step out in",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "4d - 1",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "4e - 2",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "4f - 3",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "4g - 4",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "4h - 5",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "4i - 6",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "5 steps",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "6a - fwd/back",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "6b - lateral",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "6c - quick, distance, steps",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "6d - rolls in place",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "6e - rolls and upper",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "6f - rolls and move",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "6g - angles",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "6h - fig 8",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "6i - fig 8 in out",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "7 -0 prep",
+          "workDuration": 5,
+          "restDuration": 235,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0,
+          "value": 0
+        },
+        {
+          "exerciseName": "8 - singles, fwd, back, in out 1-6",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "9 - 1-2-s/s circling 2-3, 2-2-3, 3-2-3",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "10 - rolls",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "11 - prep",
+          "workDuration": 150,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0,
+          "value": 0
+        },
+        {
+          "exerciseName": "12 - combos 1-6, 6-1",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "13 - 1-1-2-2-3....",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "14 - 2-3-r. 2-r-2-r, etc",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "15 - combo 1",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "16 - combo 2",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "17 - combo3",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 3,
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "notes": "12/18/2024"
+}

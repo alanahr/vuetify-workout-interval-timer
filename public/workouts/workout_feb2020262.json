@@ -1,0 +1,533 @@
+{
+  "workoutName": "02/20/2026",
+  "workoutDescription": "02/20/2026 week 2/B: upper, combos/agility/balance, etc.",
+  "sets": [
+    {
+      "set_id": 0,
+      "setRepeat": 1,
+      "setName": "warmup",
+      "setClass": "warmup",
+      "exercises": [
+        {
+          "exerciseName": "1A cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio-warmup",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "1B strength",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "2A cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio-warmup",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "2B strength",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "3A cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio-warmup",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "3B strength",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-warmup",
+          "exerciseValue": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setRepeat": 1,
+      "setName": "cardio",
+      "setClass": "cardio",
+      "exercises": [
+        {
+          "exerciseName": "4A cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "4B strength",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "5A cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "5B strength",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "6A cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "6B strength",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "setRepeat": 1,
+      "setName": "hiit",
+      "setClass": "hiit",
+      "exercises": [
+        {
+          "exerciseName": "7A hiit",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "7B strength",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "8A hiit",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "8B strength",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "9A hiit",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "9B strength",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "10A hiit",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "10B strength",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 3,
+      "setRepeat": 1,
+      "setName": "cardio",
+      "setClass": "cardio",
+      "exercises": [
+        {
+          "exerciseName": "11A cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "11B strength",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "12A cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "12B strength",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "13A cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "13B strength",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 4,
+      "setRepeat": 1,
+      "setName": "stretch",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "1 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "2 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "3 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "4 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "5 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "6 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "7 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "8 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "9 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "10 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "11 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "12 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "13 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "14 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "15 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "16 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "17 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "18 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "19 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "20 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "21 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "22 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "23 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "24 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "25 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "26 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "27 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "28 stretch",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "notes": "02/20/2026"
+}

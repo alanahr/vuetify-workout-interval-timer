@@ -1,0 +1,324 @@
+{
+  "workoutName": "short stretch data",
+  "workoutDescription": "stretches",
+  "sets": [
+    {
+      "set_id": 0,
+      "setName": "Sitting",
+      "setClass": "stretch",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "Sitting straight toe reach",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_hamstringSitting.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Angled Toe Reach - Right",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_hamstringSitting.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Angled Toe Reach - Left",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_hamstringSitting.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Forward reach back stretch, calf raise",
+          "workDuration": 20,
+          "restDuration": 1,
+          "exercisePic": "stretch_standingHamstring.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setName": "Plank",
+      "setClass": "stretch",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "Down Dog and calf stretch",
+          "workDuration": 20,
+          "restDuration": 1,
+          "exercisePic": "stretch_downDog.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Up dog",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_upDog.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Kneeling Hip flexor R",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_lungeTwistReach.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Lying butt stretch",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_forwardButtStretchReach.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Back to lunge position for hamstring stretch",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_hipflexorLunge.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Side lunge ",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_lateralLunge.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Kneeling Hip flexor L",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_lungeTwistReach.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Lying butt stretch L",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_forwardButtStretchReach.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Back to lunge position for hamstring stretch",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_hipflexorLunge.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Side lunge L",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_lateralLunge.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Frog",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_butterfly.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "lean back to quad and chest stretch",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "lift up to upside down bridge",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Cat stretch and forearm stretch",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_catStretch.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "setRepeat": 1,
+      "setName": "Standing",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "Reach",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_standReach.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Chest doorway - right",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_chestDoorway.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Chest doorway - left",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_chestDoorway.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Biceps - right",
+          "workDuration": 5,
+          "restDuration": 1,
+          "exercisePic": "stretch_bicepWall.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Biceps - left",
+          "workDuration": 5,
+          "restDuration": 1,
+          "exercisePic": "stretch_bicepWall.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Wall down dog",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_wallDownDog.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Quad - right",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_standingQuad.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Quad - left",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_standingQuad.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Shoulder pull - right",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_shoulderPullFold.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Shoulder pull - left",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_shoulderPullFold.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Lateral down - right",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_lateralNeck.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Lateral down neck - left",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_lateralNeck.png"
+        },
+        {
+          "exerciseName": "Neck turn stretch - right",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_neck.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Neck turn stretch - left",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_neck.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Triceps - right",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_tricepsOverhead.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "Triceps - left",
+          "workDuration": 15,
+          "restDuration": 1,
+          "exercisePic": "stretch_tricepsOverhead.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 4,
+      "setRepeat": 1,
+      "setName": "Optional",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "optional: Lying back glute stretch right",
+          "workDuration": 15,
+          "restDuration": 2,
+          "exercisePic": "stretch_lyingButt.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "optional: Lying back glute stretch left",
+          "workDuration": 15,
+          "restDuration": 2,
+          "exercisePic": "stretch_lyingButt.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        }
+      ]
+    }
+  ]
+}

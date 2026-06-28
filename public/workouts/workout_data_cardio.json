@@ -1,0 +1,294 @@
+{
+  "workoutName": "45 minute",
+  "workoutDescription": "45 minute",
+  "sets": [
+    {
+      "set_id": 0,
+      "setName": "Warmup",
+      "setClass": "warmup",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "march in place",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "butt kickers",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "oblique bend",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "wall slides/air rows",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "alt. down lunge to knee",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "180 sit and jump switch (2-3 per side)",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "air rows/wall slides",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "alt. one-legged deadlift",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "prisoner squat",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "alt lateral lunge",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setName": "warmup part 2",
+      "setClass": "warmup",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "sumo squat, pivot to lunge",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "5-directional lunge",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "low, wide squat shuffle <-->",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "inchworm",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "sumo squat, pivot to lunge",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "sumo squat, pivot to lunge",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "sumo squat, pivot to lunge",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "sumo squat, pivot to lunge",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "sumo squat, pivot to lunge",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "sumo squat, pivot to lunge",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "setRepeat": 1,
+      "setName": "Strength",
+      "setClass": "strength",
+      "exercises": [
+        {
+          "exerciseName": "16a",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "16b",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "17a",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "17b",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "17c",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 4,
+      "setRepeat": 1,
+      "setName": "Optional",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "optional: Lying back glute stretch right",
+          "workDuration": 15,
+          "restDuration": 2,
+          "exercisePic": "stretch_lyingButt.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "optional: Lying back glute stretch left",
+          "workDuration": 15,
+          "restDuration": 2,
+          "exercisePic": "stretch_lyingButt.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "18b",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "7",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "8",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "9",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "10",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        }
+      ]
+    }
+  ]
+}

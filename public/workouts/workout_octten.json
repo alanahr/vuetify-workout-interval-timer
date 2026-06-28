@@ -1,0 +1,310 @@
+{
+  "workoutName": "10/3/23",
+  "workoutDescription": "october 2a",
+  "sets": [
+    {
+      "set_id": 0,
+      "setRepeat": 1,
+      "setName": "Circuit 1",
+      "setClass": "circuit",
+      "exercises": [
+        {
+          "exerciseName": "1a",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "1b",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "2a",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "2b",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "3a",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "3b",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setRepeat": 1,
+      "setName": "Circuit 2",
+      "setClass": "circuit",
+      "exercises": [
+        {
+          "exerciseName": "2 - 1a",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "2 - 1b",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "2 - 2a",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "2 - 2b",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "2 - 3a",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "2 - 3b",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "setRepeat": 1,
+      "setName": "Circuit 3",
+      "setClass": "circuit",
+      "exercises": [
+        {
+          "exerciseName": "3 - 1a",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "3 -1b",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "3 -2a",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "3 -2b",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "3- 3a",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "3- 3b",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 3,
+      "setRepeat": 1,
+      "setName": "Circuit 4",
+      "setClass": "circuit",
+      "exercises": [
+        {
+          "exerciseName": "4 - 1a",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "4 - 1b",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4 - 2a",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "4 - 2b",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4 - 3a short",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4 - 3b short",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4 - 3c short",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4 - 3d short",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 4,
+      "setRepeat": 1,
+      "setName": "Optional",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "optional: Lying back glute stretch right",
+          "workDuration": 15,
+          "restDuration": 2,
+          "exercisePic": "stretch_lyingButt.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "optional: Lying back glute stretch left",
+          "workDuration": 15,
+          "restDuration": 2,
+          "exercisePic": "stretch_lyingButt.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "18b",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "7",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "8",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "9",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "10",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        }
+      ]
+    }
+  ]
+}

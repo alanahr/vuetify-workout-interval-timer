@@ -1,0 +1,264 @@
+{
+  "workoutName": "03/20/2024",
+  "workoutDescription": "03/20/2024",
+  "sets": [
+    {
+      "set_id": 0,
+      "setRepeat": 1,
+      "setName": "warmup",
+      "setClass": "warmup",
+      "exercises": [
+        {
+          "exerciseName": "march in place, move in place",
+          "workDuration": 180,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "inchworm to bear crawl",
+          "workDuration": 180,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "walking lunge, side shuffle, side shuffle touch",
+          "workDuration": 180,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "carioca, line run",
+          "workDuration": 180,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setRepeat": 1,
+      "setName": "warmup pt2",
+      "setClass": "warmup",
+      "exercises": [
+        {
+          "exerciseName": "rope",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "pushuprow",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "bosu",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "deadlift",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "hurdles",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "curl press",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "rope",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "180",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "hurdles",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "rows",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "rope",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "leapfrog",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "setRepeat": 1,
+      "setName": "stretch",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "row dropsets",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "V-up",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "hydrant",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "situps. scissors",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "butt blaster",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "lat db raise",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "calf raise",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "wall slides",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 3,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 3,
+      "setRepeat": 1,
+      "setName": "stretch",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "stretch",
+          "workDuration": 600,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 3,
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "notes": "03 20"
+}

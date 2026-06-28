@@ -1,0 +1,237 @@
+[
+  {
+    "id": "boxing-cardio-basics",
+    "name": "Boxing Cardio Basics",
+    "filename": "boxing-cardio-basics.json"
+  },
+  {
+    "id": "heavy-bag-power",
+    "name": "Heavy Bag Power",
+    "filename": "heavy-bag-power.json"
+  },
+  {
+    "id": "shadowbox-technique",
+    "name": "Shadowbox Technique",
+    "filename": "shadowbox-technique.json"
+  },
+  {
+    "id": "full-body-hiit",
+    "name": "Full Body HIIT",
+    "filename": "full-body-hiit.json"
+  },
+  {
+    "id": "core-strength",
+    "name": "Core & Strength",
+    "filename": "core-strength.json"
+  },
+  {
+    "id": "recovery-stretch",
+    "name": "Recovery & Stretch",
+    "filename": "recovery-stretch.json"
+  },
+  {
+    "id": "workout_feb202026",
+    "name": "02/25/2026",
+    "filename": "workout_feb202026.json"
+  },
+  {
+    "id": "workout_feb2020262",
+    "name": "02/20/2026",
+    "filename": "workout_feb2020262.json"
+  },
+  {
+    "id": "workout_mar212026",
+    "name": "03/21/2026",
+    "filename": "workout_mar212026.json"
+  },
+  {
+    "id": "workout_feb142026",
+    "name": "02/14/2026",
+    "filename": "workout_feb142026.json"
+  },
+  {
+    "id": "workout_feb112026",
+    "name": "02/11/2026",
+    "filename": "workout_feb112026.json"
+  },
+  {
+    "id": "workout_nov52025",
+    "name": "11/5/2025",
+    "filename": "workout_nov52025.json"
+  },
+  {
+    "id": "workout_oct112025",
+    "name": "10/11/2025",
+    "filename": "workout_oct112025.json"
+  },
+  {
+    "id": "workout_oct2025",
+    "name": "10/11/2025",
+    "filename": "workout_oct2025.json"
+  },
+  {
+    "id": "workout_august2025",
+    "name": "08-25 only strength (90/30)",
+    "filename": "workout_august2025.json"
+  },
+  {
+    "id": "workout_jan132025",
+    "name": "01/13/2025",
+    "filename": "workout_jan132025.json"
+  },
+  {
+    "id": "workout_dec182024",
+    "name": "12/18/2024",
+    "filename": "workout_dec182024.json"
+  },
+  {
+    "id": "workout_dec62024",
+    "name": "12/6/2024",
+    "filename": "workout_dec62024.json"
+  },
+  {
+    "id": "workout_nov42024",
+    "name": "11/4/2024",
+    "filename": "workout_nov42024.json"
+  },
+  {
+    "id": "workout_aug252024",
+    "name": "08/25/2024",
+    "filename": "workout_aug252024.json"
+  },
+  {
+    "id": "workout_aug252024v2",
+    "name": "08/25/2024v2 ",
+    "filename": "workout_aug252024v2.json"
+  },
+  {
+    "id": "workout_aug252024v3",
+    "name": "08/25/2024v3 ",
+    "filename": "workout_aug252024v3.json"
+  },
+  {
+    "id": "workout_sep2023",
+    "name": "45 minutes",
+    "filename": "workout_sep2023.json"
+  },
+  {
+    "id": "workout_aug282023",
+    "name": "08/28/23",
+    "filename": "workout_aug282023.json"
+  },
+  {
+    "id": "workout_jan27",
+    "name": "01/27/2024",
+    "filename": "workout_jan27.json"
+  },
+  {
+    "id": "workout_mar20",
+    "name": "03/20/2024",
+    "filename": "workout_mar20.json"
+  },
+  {
+    "id": "workout_jan31",
+    "name": "01/31/2024",
+    "filename": "workout_jan31.json"
+  },
+  {
+    "id": "workout_jan08",
+    "name": "01/08/2024",
+    "filename": "workout_jan08.json"
+  },
+  {
+    "id": "workout_jan09",
+    "name": "01/09/2024",
+    "filename": "workout_jan09.json"
+  },
+  {
+    "id": "workout_sep9",
+    "name": "9/9/22",
+    "filename": "workout_sep9.json"
+  },
+  {
+    "id": "workout_jul22",
+    "name": "3/A: bootcamp: cardio, etc.",
+    "filename": "workout_jul22.json"
+  },
+  {
+    "id": "workout_sep29",
+    "name": "1/A: bootcamp: cardio + strength",
+    "filename": "workout_sep29.json"
+  },
+  {
+    "id": "workout_septwelve",
+    "name": "2/A: cardio + Strength",
+    "filename": "workout_septwelve.json"
+  },
+  {
+    "id": "workout_julythirteen",
+    "name": "3/C: Boxing + Strength",
+    "filename": "workout_julythirteen.json"
+  },
+  {
+    "id": "workout_julytwentyseven",
+    "name": "90 minutes",
+    "filename": "workout_julytwentyseven.json"
+  },
+  {
+    "id": "workout_julytwentyseven2",
+    "name": "45 minutes",
+    "filename": "workout_julytwentyseven2.json"
+  },
+  {
+    "id": "workout_octten",
+    "name": "10/3/23",
+    "filename": "workout_octten.json"
+  },
+  {
+    "id": "workout_may1",
+    "name": "05/01/2024",
+    "filename": "workout_may1.json"
+  },
+  {
+    "id": "workout_octthird",
+    "name": "10/10/23",
+    "filename": "workout_octthird.json"
+  },
+  {
+    "id": "workout_nov26",
+    "name": "11/26",
+    "filename": "workout_nov26.json"
+  },
+  {
+    "id": "workout_apr29",
+    "name": "04/29",
+    "filename": "workout_apr29.json"
+  },
+  {
+    "id": "workout_data_cardio_sixty",
+    "name": "60 minute",
+    "filename": "workout_data_cardio_sixty.json"
+  },
+  {
+    "id": "workout_junenine",
+    "name": "45 minute",
+    "filename": "workout_junenine.json"
+  },
+  {
+    "id": "workout_data_cardio",
+    "name": "45 minute",
+    "filename": "workout_data_cardio.json"
+  },
+  {
+    "id": "workout_forty_five",
+    "name": "cardio!",
+    "filename": "workout_forty_five.json"
+  },
+  {
+    "id": "shortStretchData",
+    "name": "short stretch data",
+    "filename": "shortStretchData.json"
+  },
+  {
+    "id": "itBandStretchData",
+    "name": "IT band and back stretches",
+    "filename": "itBandStretchData.json"
+  }
+]

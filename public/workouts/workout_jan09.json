@@ -1,0 +1,193 @@
+{
+  "workoutName": "01/09/2024",
+  "workoutDescription": "01/09/2024",
+  "sets": [
+    {
+      "set_id": 0,
+      "setRepeat": 1,
+      "setName": "warmup",
+      "setClass": "warmup",
+      "exercises": [
+        {
+          "exerciseName": "walkout pushup, kick out, t plank, leg lift mt climber",
+          "workDuration": 170,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "sumo pivot",
+          "workDuration": 50,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "agility - line run *2 each, carioca if done",
+          "workDuration": 170,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "oblique bend ",
+          "workDuration": 50,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "agility - carioca, side shuffle, shuffle touch",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3,
+          "ex_no": 3,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setRepeat": 1,
+      "setName": "warmup pt2",
+      "setClass": "warmup",
+      "exercises": [
+        {
+          "exerciseName": "ftw back forth, square",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio_footwork",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "ftw - rolls in place, roll dbl low, f-b, r-l",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio_footwork",
+          "exerciseValue": 3,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "setRepeat": 1,
+      "setName": "warmup pt3",
+      "setClass": "doubleendbag",
+      "exercises": [
+        {
+          "exerciseName": "double end bag 1-1, 2-2, 1, 2, in/out",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "double end bag 1-2, 112, in/out, distance, step, 3-4, 5-6",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "dbl end - 1-/s-2-s-1-2-/ss (slips)",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "dbl end - circling and rolls",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "dbl end - add all defense, leading hooks",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 3,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 3,
+      "setRepeat": 1,
+      "setName": "strength",
+      "setClass": "strength",
+      "exercises": [
+        {
+          "exerciseName": "20ea - split lunge jump, deadlift, 180, band squat",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "20ea - jump knee tuck, fig8, calf raise, bridge",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "20ea - vup, butt blaster, crunch, hydrant",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "20ea - curl to press, band tri press, band row",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "20ea - vup again, tricep pushup, butt blaster",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "notes": "01 09"
+}

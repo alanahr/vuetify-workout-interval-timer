@@ -1,0 +1,292 @@
+{
+  "workoutName": "11/5/2025",
+  "workoutDescription": "11/5/2025",
+  "sets": [
+    {
+      "set_id": 0,
+      "setRepeat": 1,
+      "setName": "Alternating",
+      "setClass": "warmup",
+      "exercises": [
+        {
+          "exerciseName": "1- bike + do stuff",
+          "workDuration": 600,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 10,
+          "value": 0
+        },
+        {
+          "exerciseName": "2",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "3 ",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "4",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setRepeat": 1,
+      "setName": "Alternating",
+      "setClass": "circuit",
+      "exercises": [
+        {
+          "exerciseName": "1A cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "1B part 1",
+          "workDuration": 85,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "1B part 2",
+          "workDuration": 90,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "2A cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "2B part 1",
+          "workDuration": 85,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "2B part 2",
+          "workDuration": 90,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "3A cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "3B part 1",
+          "workDuration": 85,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "3B part 2",
+          "workDuration": 90,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "4A cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "4B part 1",
+          "workDuration": 85,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "4B part 2",
+          "workDuration": 90,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "5A cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "5B part 1",
+          "workDuration": 85,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "5B part 2",
+          "workDuration": 90,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "6A cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "6B part 1",
+          "workDuration": 85,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "6B part 2",
+          "workDuration": 90,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "7A cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "7B part 1",
+          "workDuration": 85,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "7B part 2",
+          "workDuration": 90,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "8A cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "8B part 1",
+          "workDuration": 85,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "8B part 2",
+          "workDuration": 90,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "setRepeat": 1,
+      "setName": "stretch",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "1 stretch",
+          "workDuration": 600,
+          "restDuration": 300,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 10,
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "notes": "11/5/2025"
+}

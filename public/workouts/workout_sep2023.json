@@ -1,0 +1,434 @@
+{
+  "workoutName": "45 minutes",
+  "workoutDescription": "a workout to just get through",
+  "sets": [
+    {
+      "set_id": 0,
+      "setName": "A",
+      "setClass": "warmup",
+      "setDescription": "2/:20 x1 and 1:00/:20 x3",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "1 footwork - rl, rolls",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "ex_no": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength A - 180 sit",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 2,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength B - pushup row walkout",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "ex_no": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength A - reverse lunge",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 4,
+          "value": 0
+        },
+        {
+          "exerciseName": "2 footwork - double end/prep",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "ex_no": 5,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength A - sumo pivot",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 6,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength B - bear crawl",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "ex_no": 7,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength A - lawnmower",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 8,
+          "value": 0
+        },
+        {
+          "exerciseName": "3 heavy bag 1-1, 2-2, etc., 1-3-5, 2-4-6",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "ex_no": 9,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 3A - curl to press",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 10,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 3B spiderman",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "ex_no": 11,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 3A db raise",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 12,
+          "value": 0
+        },
+        {
+          "exerciseName": "4 heavy bag - rolls",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "ex_no": 13,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 4A - split lunge jump",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 14,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 4B - rows",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "ex_no": 15,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 4A 180 jump",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 16,
+          "value": 0
+        },
+        {
+          "exerciseName": "5 cardio 5 1-2, 1-1-2, distance",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "ex_no": 17,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 5A - hydrant",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 18,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 5B - vup",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "ex_no": 19,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 5A - butt blaster",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 20,
+          "value": 0
+        },
+        {
+          "exerciseName": "cardio 6",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "ex_no": 21,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 6A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 22,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 6B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "ex_no": 23,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 6A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 24,
+          "value": 0
+        },
+        {
+          "exerciseName": "cardio 7",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "ex_no": 25,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 7A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 26,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 7B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "ex_no": 27,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 7A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 28,
+          "value": 0
+        },
+        {
+          "exerciseName": "cardio 8",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "ex_no": 29,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 8A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 30,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 8B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "ex_no": 31,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 8A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 32,
+          "value": 0
+        },
+        {
+          "exerciseName": "cardio 9",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "ex_no": 33,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 9A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 34,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 9B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "ex_no": 35,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 9A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 36,
+          "value": 0
+        },
+        {
+          "exerciseName": "cardio 10",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "ex_no": 37,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 10A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 38,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 10B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "ex_no": 39,
+          "value": 0
+        },
+        {
+          "exerciseName": "strength 10A",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 40,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setRepeat": 1,
+      "setName": "B: stretch",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "do short stretch!",
+          "workDuration": 600,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0,
+          "ex_no": 41,
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "notes": "Workout Notes"
+}

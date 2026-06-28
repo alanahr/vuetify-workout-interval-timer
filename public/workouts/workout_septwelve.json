@@ -1,0 +1,471 @@
+{
+  "workoutName": "2/A: cardio + Strength",
+  "workoutDescription": "a workout to just get through",
+  "sets": [
+    {
+      "set_id": 0,
+      "setName": "Warmup A - 16min",
+      "setClass": "warmup",
+      "setDescription": "15 rounds :50/:10",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "1",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "2",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "3",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "5",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "6",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "7",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "8",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "9",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "10 stop here 10/1",
+          "workDuration": 55,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "11 rest",
+          "workDuration": 55,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "12",
+          "workDuration": 75,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "13",
+          "workDuration": 75,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "14. rope",
+          "workDuration": 75,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "15",
+          "workDuration": 75,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "16",
+          "workDuration": 75,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "17",
+          "workDuration": 75,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "18",
+          "workDuration": 75,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "19",
+          "workDuration": 75,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "20",
+          "workDuration": 75,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "21",
+          "workDuration": 75,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "22",
+          "workDuration": 75,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "23",
+          "workDuration": 75,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "24",
+          "workDuration": 75,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "25 - last",
+          "workDuration": 75,
+          "restDuration": 180,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setRepeat": 1,
+      "setName": "b: bag work",
+      "setClass": "heavybag",
+      "exercises": [
+        {
+          "exerciseName": "1. agility/cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "2. agility/cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "3. agility/cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "4. agility/cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "5. agility/cardio",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 3
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "setRepeat": 1,
+      "setName": "stretch",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "1. agility/cardio",
+          "workDuration": 180,
+          "restDuration": 45,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "A: strength",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "B: strength",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "A: strength",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "2. agility/cardio",
+          "workDuration": 180,
+          "restDuration": 45,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "A: strength",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "B: strength",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "A: strength",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "3: agility/cardio",
+          "workDuration": 180,
+          "restDuration": 45,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "A: strength",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "B: strength",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "A: strength",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4: agility/cardio",
+          "workDuration": 180,
+          "restDuration": 45,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "A: strength",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "B: strength",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "A: strength",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "5: agility/cardio",
+          "workDuration": 180,
+          "restDuration": 45,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "A: strength",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "B: strength",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "A: strength",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "6: agility/cardio",
+          "workDuration": 180,
+          "restDuration": 45,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "A: strength",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "B: strength",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "A: strength",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "stretch 20 sec ea",
+          "workDuration": 450,
+          "restDuration": 180,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 15
+        }
+      ]
+    }
+  ]
+}

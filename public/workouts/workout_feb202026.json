@@ -1,0 +1,623 @@
+{
+  "workoutName": "02/25/2026",
+  "workoutDescription": "02/25/2026 week 3/C, done 2/25... didn't start til 4pm :(",
+  "sets": [
+    {
+      "set_id": 0,
+      "setRepeat": 1,
+      "setName": "warmup",
+      "setClass": "warmup",
+      "exercises": [
+        {
+          "exerciseName": "1A bear crawl, trench, lat shuffle, lat lunge touch",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio-warmup",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "1B inchworm walkout to kicks, 2 pt raise,  plank in place then <>",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-warmup",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "2A easy rope",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio-warmup",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "2B squat W/ band 🏋️",
+          "workDuration": 45,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength-warmup",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "2c rev lunge",
+          "workDuration": 45,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-warmup",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "3A line run fwd+lat** alt step, high skips, **tap, carioca, **jump, football",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 4,
+          "value": 0
+        },
+        {
+          "exerciseName": "3B sumo squat pendulum",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "3C  shelf + fig 8",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-warmup",
+          "exerciseValue": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setRepeat": 1,
+      "setName": "cardio",
+      "setClass": "cardio",
+      "exercises": [
+        {
+          "exerciseName": "4A steps 30,3,3",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "4B db swing🏋",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "5A tires fwd lat<> x2, lat jump tires x2, fwd fwd-rev x2, fwd-rev jump x2",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "5B band curls, press 🏋",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "6A rope normal",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "6B split lunge repeat w/db 🏋 dropset",
+          "workDuration": 90,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "setRepeat": 1,
+      "setName": "hiit",
+      "setClass": "hiit",
+      "exercises": [
+        {
+          "exerciseName": "7A steps 20,2,2",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "7B pushup+row 🏋, crocodile, sideplank",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "8A MAT jump tuck x2, lat<> x2, fwd-back x2, burpee x2",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "8B tricep dip, bridge ",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "9A steps 10,1,1",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "9B scissor kicks, situp and reach with db + twist, sitting leg raise",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "10A bosu + lat to free throw",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "10B wall slides",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 3,
+      "setRepeat": 1,
+      "setName": "strength",
+      "setClass": "strength",
+      "exercises": [
+        {
+          "exerciseName": "11* - calf raise",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "12* - db lat/front raise",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "13* - rows, lat pulldown with band",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "14* - kneeling hydrant/angled leg raise",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "15* - forearm curl",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 4,
+      "setRepeat": 1,
+      "setName": "stretch",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "sitting toe reach",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "2 sitting angled toe reach, R leg back ",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "3 sitting angled toe reach, L leg back",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "4 lying butt (R)",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "5 lying butt (L)",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "6 frog",
+          "workDuration": 40,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "7 knees - forearm stretch",
+          "workDuration": 40,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "8 down dog w calf stretch",
+          "workDuration": 40,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "9 up dog",
+          "workDuration": 30,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "10 childs post shoulders",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "11 sitting leg over back twist R",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "12 sitting leg over back twist L",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "13 hip flexor stretch R",
+          "workDuration": 30,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "14 hip flexor stretch R",
+          "workDuration": 30,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "15 staggered toe reach in lunge R",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "16 staggered toe reach in lunge L",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "17 fwd to butt stretch R",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "18 fwd to butt stretch L",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "19 standing quad R",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "20 standing quad L",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "21 shoulder arm over pull R",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "22 shoulder pull R",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "23 Tricep arm over and back R",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "24 Tricep arm over and back L",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "25 neck lateral down R",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "26 neck lateral down L ",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "27 neck lateral R",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "28 neck lateral L",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "29 doorway chest",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "30 doorway bicep R",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "31 doorway bicep L",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "32 wall shoulders",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "33 wall calf R",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "34 wall calf L",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "35 doorway oblique R",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "36 doorway oblique L",
+          "workDuration": 20,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "37 foam roller lower back, back",
+          "workDuration": 90,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 0.5,
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "notes": "02/25/2026"
+}

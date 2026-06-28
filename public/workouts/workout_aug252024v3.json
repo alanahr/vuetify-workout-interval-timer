@@ -1,0 +1,429 @@
+{
+  "workoutName": "08/25/2024v3 ",
+  "workoutDescription": "a workout to just get through",
+  "sets": [
+    {
+      "set_id": 0,
+      "setName": "A",
+      "setClass": "warmup",
+      "setDescription": "3:00/1:00 + 1:00/:30",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "1a warmup cardio: floor cleaner",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "1b - strength: 180 sit",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "1c - strength: inchworm walkout with 2pt raise",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "1b - strength: 180 sit pivot pendulum",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "2a warmup: floor cleaner?/steps",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "2b - strength - shelf w figure 8",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "2c strength - band row + flyes",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "2b- db swing",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setName": "B",
+      "setClass": "cardio",
+      "setDescription": "3:00/1:00 + 1:00/:20",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "3a cardio: line run fwd",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "3b - strength: split lunge jump repeat",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "3c - strength: vup + crunch",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "3b - strength: 180 jump",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "4a hiit: rope (high knees) X 30 + 1-3 burpees",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "4b - strength: calf raise/popup",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "4c - strength: jump tuck",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "4b - strength: calf raise/popup",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "5a steps/footwork focus on toes speed",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "5b - strength: butt blaster",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "5c - strength: curl to press",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "5b - strength: angled leg up/hydrant",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "6a steps",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "6b - bench dip",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "6c - spiderman",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "6b - bench step up",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "7a - bosu",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "7b - lat/front raises",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "7c - hip circle",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "7b - scissor kicks",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "8a - footwork?",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "8b - skater",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "8c - rows",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "8b - wall slide",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setName": "C bonus",
+      "setClass": "cardio",
+      "setDescription": "3:00/1:00 + 1:00/:20",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "9a",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "9b",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "9c",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "9b",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "10a",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "10b",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "10c",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "10b",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "6a cardio: Bosu",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "6b - strength: db raise",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "6c - strength: bridge/dip",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "6b - strength: butt blaster",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5,
+          "value": 0
+        }
+      ]
+    }
+  ]
+}

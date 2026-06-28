@@ -1,0 +1,249 @@
+{
+  "workoutName": "11/4/2024",
+  "workoutDescription": "11/4/2024",
+  "sets": [
+    {
+      "set_id": 0,
+      "setRepeat": 1,
+      "setName": "Alternating",
+      "setClass": "circuit",
+      "exercises": [
+        {
+          "exerciseName": "A",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "B",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "2A",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "2B",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "3A",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "3B",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "4A",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "4B",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "5A",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "5B",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "6A",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "6B",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "7A",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "7B",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "8A",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "8B",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "9A",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "9B",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "10A",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "10B",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "11A",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "11B",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "12A",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "12B",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "13A",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "13B",
+          "workDuration": 60,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "notes": "11/4/2024"
+}

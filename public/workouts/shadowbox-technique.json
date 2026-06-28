@@ -1,0 +1,63 @@
+{
+  "workoutName": "Shadowbox Technique",
+  "sets": [
+    {
+      "setName": "Warm Up",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "Light Footwork",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 2,
+          "exercisePic": "",
+          "workDuration": 120,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Shoulder Rolls",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        }
+      ]
+    },
+    {
+      "setName": "Technique Rounds",
+      "setRepeat": 5,
+      "exercises": [
+        {
+          "exerciseName": "Shadowboxing",
+          "exerciseStyle": "shadowbox",
+          "exerciseValue": 3,
+          "exercisePic": "",
+          "workDuration": 180,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Rest",
+          "exerciseStyle": "rest",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        }
+      ]
+    },
+    {
+      "setName": "Cool Down",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "Full Body Stretch",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 3,
+          "exercisePic": "",
+          "workDuration": 180,
+          "restDuration": 0
+        }
+      ]
+    }
+  ]
+}

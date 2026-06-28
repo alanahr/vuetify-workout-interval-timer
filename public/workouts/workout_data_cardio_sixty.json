@@ -1,0 +1,374 @@
+{
+  "workoutName": "60 minute",
+  "workoutDescription": "60 minute",
+  "sets": [
+    {
+      "set_id": 0,
+      "setName": "Warmup",
+      "setClass": "warmup",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "walk out",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "chair pose squat",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "jacks",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "split jacks",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "march in place",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "butt kickers",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "plank walk in place, lateral walk, 2 pt raise",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "oblique bend",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "oblique bend + leg raise",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "jump twist",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "alt. one-legged deadlift",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "alt. down lunge to knee",
+          "workDuration": 45,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "air rows/wall slides",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "toy soldier",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "alt lateral lunge",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "sumo squat",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "sumo pivot",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "mini leapfrogs b-f",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "mt climber",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "skaters, split lunge",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "stop pushup",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setRepeat": 1,
+      "setName": "Strength",
+      "setClass": "strength",
+      "exercises": [
+        {
+          "exerciseName": "16a - lateral shuffle w skip, carioca",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "16b - fig8 with shelf/lawnmower",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "16c - pushup + row",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "16d - db swing",
+          "workDuration": 60,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "17a - line run",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "17b - split lunge",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "17c - crunch and twist w db",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "17d - db row drop set",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "18a - rope - high knees",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "18b - tridip+bridge",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "17c v-up",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "19a - trenchcrawl, bear, etc.",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "19b - 180 jump",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "19c vup ",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "20a - hurdle",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "20b - deadlift",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "20c curl press",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "21a - rope easy",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "21b - calf raise",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "21c hydrants",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "22a - Bosu",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "22b db lat raise",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "22c buttblaster",
+          "workDuration": 120,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 2
+        }
+      ]
+    }
+  ]
+}

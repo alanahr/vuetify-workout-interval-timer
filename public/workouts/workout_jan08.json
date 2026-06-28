@@ -1,0 +1,178 @@
+{
+  "workoutName": "01/08/2024",
+  "workoutDescription": "01/08/2024",
+  "sets": [
+    {
+      "set_id": 0,
+      "setRepeat": 1,
+      "setName": "warmup",
+      "setClass": "warmup",
+      "exercises": [
+        {
+          "exerciseName": "march in place, split jacks, mini jumps, sumo pivot",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3,
+          "ex_no": 0,
+          "value": 0
+        },
+        {
+          "exerciseName": "Rope",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3,
+          "ex_no": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "walkout pushup, kick out, t plank, leg lift mt climber",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3,
+          "ex_no": 2,
+          "value": 0
+        },
+        {
+          "exerciseName": "Rope",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3,
+          "ex_no": 3,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setRepeat": 1,
+      "setName": "warmup pt2",
+      "setClass": "warmup",
+      "exercises": [
+        {
+          "exerciseName": "ftw in place 1-6 singles, doubles",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "ftw - square, angles",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "ftw rolls",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 3,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "setRepeat": 1,
+      "setName": "warmup pt3",
+      "setClass": "doubleendbag",
+      "exercises": [
+        {
+          "exerciseName": "double end bag",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "rope",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "dbl end",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "rope",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 3,
+      "setRepeat": 1,
+      "setName": "strength",
+      "setClass": "strength",
+      "exercises": [
+        {
+          "exerciseName": "20ea - split lunge jump, row, 180, deadlift",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "20ea - vup, butt blaster, crunch, hydrant",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "20ea - curl to press, bench dip and bridge, db lift",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "20ea - vup again, butt blaster, rows",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "notes": "01 08"
+}

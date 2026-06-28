@@ -1,0 +1,109 @@
+{
+  "workoutName": "Boxing Cardio Basics",
+  "sets": [
+    {
+      "setName": "Warm Up",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "Jump Rope",
+          "exerciseStyle": "jumprope",
+          "exerciseValue": 3,
+          "exercisePic": "",
+          "workDuration": 180,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Arm Circles",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Hip Rotations",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        }
+      ]
+    },
+    {
+      "setName": "Round 1",
+      "setRepeat": 3,
+      "exercises": [
+        {
+          "exerciseName": "Jab-Cross",
+          "exerciseStyle": "shadowbox",
+          "exerciseValue": 2,
+          "exercisePic": "",
+          "workDuration": 120,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Rest",
+          "exerciseStyle": "rest",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        }
+      ]
+    },
+    {
+      "setName": "Round 2",
+      "setRepeat": 3,
+      "exercises": [
+        {
+          "exerciseName": "Jab-Cross-Hook",
+          "exerciseStyle": "shadowbox",
+          "exerciseValue": 2,
+          "exercisePic": "",
+          "workDuration": 120,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Footwork",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Rest",
+          "exerciseStyle": "rest",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        }
+      ]
+    },
+    {
+      "setName": "Cool Down",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "Light Jog",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 2,
+          "exercisePic": "",
+          "workDuration": 120,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Full Body Stretch",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 3,
+          "exercisePic": "",
+          "workDuration": 180,
+          "restDuration": 0
+        }
+      ]
+    }
+  ]
+}

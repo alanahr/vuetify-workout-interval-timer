@@ -1,0 +1,583 @@
+{
+  "workoutName": "1/A: bootcamp: cardio + strength",
+  "workoutDescription": "a workout to just get through",
+  "sets": [
+    {
+      "set_id": 0,
+      "setName": "Warmup A - 27min",
+      "setClass": "warmup",
+      "setDescription": "6 rounds 3 + 1 + :30 sec rest",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "1 A",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "1 B",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "2 A",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "2 B",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "3 A",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "3 B",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4 A",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "4 B",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "5 A",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "5 B",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "6 A",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "6 B",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setRepeat": 1,
+      "setName": "b: more cardio and strength",
+      "setClass": "cardio",
+      "exercises": [
+        {
+          "exerciseName": "1A agility/cardio",
+          "workDuration": 180,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "1B: strength A",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "1C: strength B",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "1D: strength A",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "2-A agility/cardio",
+          "workDuration": 180,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "2-B: strength A",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "2-C: strength B",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "2-D: strength A",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "3-A agility/cardio",
+          "workDuration": 180,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "3-B: strength A",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "3-C: strength B",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "3-D: strength A",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4-A agility/cardio",
+          "workDuration": 180,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "4-B: strength A",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4-C: strength B",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4-D: strength A",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "5-A agility/cardio",
+          "workDuration": 180,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "5-B: strength A",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "5-C: strength B",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "5-D: strength A",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "setRepeat": 1,
+      "setName": "stretch",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "some stretch",
+          "workDuration": 22,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "setRepeat": 1,
+      "setName": "stretch",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "ROLL",
+          "workDuration": 900,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 10
+        }
+      ]
+    }
+  ]
+}

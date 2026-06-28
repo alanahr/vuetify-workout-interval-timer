@@ -1,0 +1,271 @@
+{
+  "workoutName": "90 minutes",
+  "workoutDescription": "a workout to just get through",
+  "sets": [
+    {
+      "set_id": 0,
+      "setName": "A",
+      "setClass": "warmup",
+      "setDescription": "A+B - warmup",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "1a inchworm kick out, etc.",
+          "workDuration": 180,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "1b down lunge to knee to sumo- ea *3",
+          "workDuration": 80,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "2a rope",
+          "workDuration": 160,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "2b oblique bend, hip rotation, etc",
+          "workDuration": 60,
+          "restDuration": 180,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "3 - ftw",
+          "workDuration": 80,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4 - ftw",
+          "workDuration": 80,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "5 ftw",
+          "workDuration": 80,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "6 - ftw",
+          "workDuration": 80,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "7 ftw",
+          "workDuration": 80,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "8 - ftw",
+          "workDuration": 80,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "9 ftw??",
+          "workDuration": 80,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "10 ftw??",
+          "workDuration": 80,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "11 ftw??",
+          "workDuration": 80,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "footwork",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "setRepeat": 1,
+      "setName": "C: dbl end bag",
+      "setClass": "doubleendbag",
+      "exercises": [
+        {
+          "exerciseName": "1 see sheet",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "2 see sheet",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "3 see sheet",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "4 see sheet",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 3
+        },
+        {
+          "exerciseName": "5 see sheet",
+          "workDuration": 180,
+          "restDuration": 180,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 3
+        }
+      ]
+    },
+    {
+      "set_id": 3,
+      "setRepeat": 1,
+      "setName": "D: strength",
+      "setClass": "strength",
+      "exercises": [
+        {
+          "exerciseName": "1 - strength",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "2 - strength",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "3 - strength",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4 - strength",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "5 - strength",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "6 - strength",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "7 - strength",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "8 - strength",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "9 - strength",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "10 - strength",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 4,
+      "setRepeat": 1,
+      "setName": "B: stretch",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "do short stretch!",
+          "workDuration": 600,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 10
+        }
+      ]
+    }
+  ]
+}

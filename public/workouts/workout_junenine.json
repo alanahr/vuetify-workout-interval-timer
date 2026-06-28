@@ -1,0 +1,46 @@
+{
+  "workoutName": "45 minute",
+  "workoutDescription": "45 minute",
+  "sets": [
+    {
+      "set_id": 0,
+      "setName": "Warmup",
+      "setClass": "warmup",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "air rows/wall slides",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "alt. one-legged deadlift",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "prisoner squat",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        },
+        {
+          "exerciseName": "alt lateral lunge",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5
+        }
+      ]
+    }
+  ]
+}

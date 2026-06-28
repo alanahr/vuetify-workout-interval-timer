@@ -1,0 +1,390 @@
+{
+  "workoutName": "cardio!",
+  "workoutDescription": "cardio",
+  "sets": [
+    {
+      "set_id": 0,
+      "setName": "Warmup",
+      "setClass": "warmup",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "march + to sides + oblique bend",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "1b ",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "2a",
+          "workDuration": 180,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "2b",
+          "workDuration": 60,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "3a",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "3b",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4a",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "4b",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "5a",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "5b",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setName": "Movement",
+      "setClass": "cardio",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "6a",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "6b",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "7 A",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "7 B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "7 A",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "7 B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "8 A",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "8B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "9 A",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "9B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "10 A",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "10 B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "11 A",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "11B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "12 A",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "12 B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "13 A",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "13B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "14 A",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "14 B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "15 A",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "15 B",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "setRepeat": 1,
+      "setName": "Strength",
+      "setClass": "strength",
+      "exercises": [
+        {
+          "exerciseName": "16a",
+          "workDuration": 180,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "16b",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "17a",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "17b",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "17c",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        }
+      ]
+    },
+    {
+      "set_id": 4,
+      "setRepeat": 1,
+      "setName": "Optional",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "optional: Lying back glute stretch right",
+          "workDuration": 15,
+          "restDuration": 2,
+          "exercisePic": "stretch_lyingButt.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "optional: Lying back glute stretch left",
+          "workDuration": 15,
+          "restDuration": 2,
+          "exercisePic": "stretch_lyingButt.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "18b",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "7",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "8",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "9",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        },
+        {
+          "exerciseName": "10",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "workoutName": "Full Body HIIT",
+  "sets": [
+    {
+      "setName": "Warm Up",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "Jumping Jacks",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 2,
+          "exercisePic": "",
+          "workDuration": 120,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Hip Hinges",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        }
+      ]
+    },
+    {
+      "setName": "HIIT Block",
+      "setRepeat": 4,
+      "exercises": [
+        {
+          "exerciseName": "Burpees",
+          "exerciseStyle": "burpees",
+          "exerciseValue": 0.5,
+          "exercisePic": "",
+          "workDuration": 30,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "High Knees",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 0.5,
+          "exercisePic": "",
+          "workDuration": 30,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Mountain Climbers",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 0.5,
+          "exercisePic": "",
+          "workDuration": 30,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Rest",
+          "exerciseStyle": "rest",
+          "exerciseValue": 0.5,
+          "exercisePic": "",
+          "workDuration": 30,
+          "restDuration": 0
+        }
+      ]
+    },
+    {
+      "setName": "Circuit Finisher",
+      "setRepeat": 2,
+      "exercises": [
+        {
+          "exerciseName": "Push-Ups",
+          "exerciseStyle": "circuit",
+          "exerciseValue": 0.5,
+          "exercisePic": "",
+          "workDuration": 30,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Squat Jumps",
+          "exerciseStyle": "circuit",
+          "exerciseValue": 0.5,
+          "exercisePic": "",
+          "workDuration": 30,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Plank Hold",
+          "exerciseStyle": "core",
+          "exerciseValue": 0.5,
+          "exercisePic": "",
+          "workDuration": 30,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Rest",
+          "exerciseStyle": "rest",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        }
+      ]
+    },
+    {
+      "setName": "Cool Down",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "Full Body Stretch",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 3,
+          "exercisePic": "",
+          "workDuration": 180,
+          "restDuration": 0
+        }
+      ]
+    }
+  ]
+}

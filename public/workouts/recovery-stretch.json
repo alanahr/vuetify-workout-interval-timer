@@ -1,0 +1,109 @@
+{
+  "workoutName": "Recovery & Stretch",
+  "sets": [
+    {
+      "setName": "Light Activation",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "Easy Walk",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "exercisePic": "",
+          "workDuration": 180,
+          "restDuration": 0
+        }
+      ]
+    },
+    {
+      "setName": "Upper Body Stretch",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "Neck Rolls",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Shoulder Cross Stretch",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Tricep Overhead Stretch",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Chest Opener",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        }
+      ]
+    },
+    {
+      "setName": "Lower Body Stretch",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "Hip Flexor Stretch",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 2,
+          "exercisePic": "",
+          "workDuration": 120,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Hamstring Stretch",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 2,
+          "exercisePic": "",
+          "workDuration": 120,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Quad Stretch",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 2,
+          "exercisePic": "",
+          "workDuration": 120,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Calf Stretch",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        }
+      ]
+    },
+    {
+      "setName": "Final Rest",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "Savasana",
+          "exerciseStyle": "rest",
+          "exerciseValue": 3,
+          "exercisePic": "",
+          "workDuration": 180,
+          "restDuration": 0
+        }
+      ]
+    }
+  ]
+}

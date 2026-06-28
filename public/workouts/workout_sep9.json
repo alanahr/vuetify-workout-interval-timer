@@ -1,0 +1,500 @@
+{
+  "workoutName": "9/9/22",
+  "workoutDescription": "9/9/22",
+  "sets": [
+    {
+      "set_id": 0,
+      "setName": "Warmup",
+      "setClass": "warmup",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "march in place",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "inchworm w/ walkout",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "oblique leg raise/bend",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "pushup + row",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "jumping jacks/split jacks/twist jump",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "180 sit and jump switch (2-3 per side)",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "prisoner squat",
+          "workDuration": 25,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "alt. down lunge to knee",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "sumo squat + pivot/pendulum",
+          "workDuration": 55,
+          "restDuration": 5,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "2 pt raise",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "alt. one-legged deadlift",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "alt lateral lunge",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "mini skater",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "plank walk",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "mini split lunge jumps",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "wall slides/air rows",
+          "workDuration": 27,
+          "restDuration": 3,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 0.5,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setName": "warmup part 2",
+      "setClass": "warmup",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "1 bear crawl, val slide",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "fig 8/lawnmower",
+          "workDuration": 70,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "2 shuffle, carioca",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "deadlift",
+          "workDuration": 70,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "3 line run - 2 step, alt tap, jump",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "repeat split lunge",
+          "workDuration": 70,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "4 BOSU",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "curl to press",
+          "workDuration": 70,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "5 hurdles",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "V-up",
+          "workDuration": 70,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "6 toy soldier, free throw",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "hydrant",
+          "workDuration": 70,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "rows drop set",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "crunch",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-core",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "180 jump",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "arnold press",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-upper",
+          "exerciseValue": 1.5,
+          "value": 0
+        },
+        {
+          "exerciseName": "butt blaster",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength-lower",
+          "exerciseValue": 1.5,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "setRepeat": 1,
+      "setName": "Strength",
+      "setClass": "strength",
+      "exercises": [
+        {
+          "exerciseName": "16a",
+          "workDuration": 180,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "ex_no": 21,
+          "value": 0,
+          "uid": "2.0"
+        },
+        {
+          "exerciseName": "16b",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 22,
+          "value": 0,
+          "uid": "2.1"
+        },
+        {
+          "exerciseName": "16c",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 23,
+          "value": 0,
+          "uid": "2.2"
+        },
+        {
+          "exerciseName": "16d",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 24,
+          "value": 0,
+          "uid": "2.3"
+        },
+        {
+          "exerciseName": "17a",
+          "workDuration": 180,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "ex_no": 21,
+          "value": 0
+        },
+        {
+          "exerciseName": "16b",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 22,
+          "value": 0,
+          "uid": "2.1"
+        },
+        {
+          "exerciseName": "16c",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 23,
+          "value": 0,
+          "uid": "2.2"
+        },
+        {
+          "exerciseName": "16d",
+          "workDuration": 60,
+          "restDuration": 20,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 24,
+          "value": 0,
+          "uid": "2.3"
+        }
+      ]
+    },
+    {
+      "set_id": 3,
+      "setRepeat": 1,
+      "setName": "Optional",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "optional: Lying back glute stretch right",
+          "workDuration": 15,
+          "restDuration": 2,
+          "exercisePic": "stretch_lyingButt.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "ex_no": 26,
+          "value": 0,
+          "uid": "3.0"
+        },
+        {
+          "exerciseName": "optional: Lying back glute stretch left",
+          "workDuration": 15,
+          "restDuration": 2,
+          "exercisePic": "stretch_lyingButt.png",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 1,
+          "ex_no": 27,
+          "value": 0,
+          "uid": "3.1"
+        },
+        {
+          "exerciseName": "18b",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 28,
+          "value": 0,
+          "uid": "3.2"
+        },
+        {
+          "exerciseName": "7",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 29,
+          "value": 0,
+          "uid": "3.3"
+        },
+        {
+          "exerciseName": "8",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 30,
+          "value": 0,
+          "uid": "3.4"
+        },
+        {
+          "exerciseName": "9",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 31,
+          "value": 0,
+          "uid": "3.5"
+        },
+        {
+          "exerciseName": "10",
+          "workDuration": 90,
+          "restDuration": 30,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 1,
+          "ex_no": 32,
+          "value": 0,
+          "uid": "3.6"
+        }
+      ]
+    }
+  ],
+  "notes": "45 minute bootcamp"
+}

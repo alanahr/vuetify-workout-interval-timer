@@ -1,0 +1,101 @@
+{
+  "workoutName": "Heavy Bag Power",
+  "sets": [
+    {
+      "setName": "Warm Up",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "Jump Rope",
+          "exerciseStyle": "jumprope",
+          "exerciseValue": 3,
+          "exercisePic": "",
+          "workDuration": 180,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Dynamic Stretching",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 2,
+          "exercisePic": "",
+          "workDuration": 120,
+          "restDuration": 0
+        }
+      ]
+    },
+    {
+      "setName": "Power Rounds",
+      "setRepeat": 4,
+      "exercises": [
+        {
+          "exerciseName": "Heavy Bag Combos",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 3,
+          "exercisePic": "",
+          "workDuration": 180,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Rest",
+          "exerciseStyle": "rest",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        }
+      ]
+    },
+    {
+      "setName": "Burpee Finisher",
+      "setRepeat": 2,
+      "exercises": [
+        {
+          "exerciseName": "Burpees",
+          "exerciseStyle": "burpees",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Heavy Bag Sprint",
+          "exerciseStyle": "heavybag",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Rest",
+          "exerciseStyle": "rest",
+          "exerciseValue": 1,
+          "exercisePic": "",
+          "workDuration": 60,
+          "restDuration": 0
+        }
+      ]
+    },
+    {
+      "setName": "Cool Down",
+      "setRepeat": 1,
+      "exercises": [
+        {
+          "exerciseName": "Shoulder Stretch",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 2,
+          "exercisePic": "",
+          "workDuration": 120,
+          "restDuration": 0
+        },
+        {
+          "exerciseName": "Hip Flexor Stretch",
+          "exerciseStyle": "stretch",
+          "exerciseValue": 2,
+          "exercisePic": "",
+          "workDuration": 120,
+          "restDuration": 0
+        }
+      ]
+    }
+  ]
+}

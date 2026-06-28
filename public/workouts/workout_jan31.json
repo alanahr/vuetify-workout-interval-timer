@@ -1,0 +1,310 @@
+{
+  "workoutName": "01/31/2024",
+  "workoutDescription": "01/31/2024",
+  "sets": [
+    {
+      "set_id": 0,
+      "setRepeat": 1,
+      "setName": "warmup",
+      "setClass": "warmup",
+      "exercises": [
+        {
+          "exerciseName": "bike and plan",
+          "workDuration": 300,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 5,
+          "value": 0
+        },
+        {
+          "exerciseName": "rows in place",
+          "workDuration": 50,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "walkout pushup, kick out, t plank, leg lift mt climber",
+          "workDuration": 170,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "sumo squat pivot",
+          "workDuration": 50,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "bear crawl, trench, move shit",
+          "workDuration": 170,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "fig 8",
+          "workDuration": 50,
+          "restDuration": 10,
+          "exercisePic": "",
+          "exerciseStyle": "warmup",
+          "exerciseValue": 1,
+          "value": 0
+        },
+        {
+          "exerciseName": "line run alt step, carioca, alt tap,carioca, alt jump, etc.",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "put shit away",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "bosu",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "walklunge 1, put shit away, repeat",
+          "workDuration": 180,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 1,
+      "setRepeat": 1,
+      "setName": "warmup pt2",
+      "setClass": "warmup",
+      "exercises": [
+        {
+          "exerciseName": "1 rope",
+          "workDuration": 180,
+          "restDuration": 45,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "pushup row",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "db swing",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "deadlift",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "2 hurdle",
+          "workDuration": 180,
+          "restDuration": 45,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "v-up/crunch",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "row dropsets",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "split lunge repeat",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "3 free throw/bosu",
+          "workDuration": 180,
+          "restDuration": 45,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "jump tuck",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "situps. scissors",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "180",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "4 hurdle",
+          "workDuration": 180,
+          "restDuration": 45,
+          "exercisePic": "",
+          "exerciseStyle": "hiit",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "hydrant",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "tricep dip",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "butt blaster",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "5 rope/ftw",
+          "workDuration": 180,
+          "restDuration": 45,
+          "exercisePic": "",
+          "exerciseStyle": "cardio",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "lat db raise",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "calf raise",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        },
+        {
+          "exerciseName": "wall slides",
+          "workDuration": 60,
+          "restDuration": 15,
+          "exercisePic": "",
+          "exerciseStyle": "strength",
+          "exerciseValue": 3,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "setRepeat": 1,
+      "setName": "stretch",
+      "setClass": "stretch",
+      "exercises": [
+        {
+          "exerciseName": "stretch",
+          "workDuration": 600,
+          "restDuration": 60,
+          "exercisePic": "",
+          "exerciseStyle": "doubleendbag",
+          "exerciseValue": 3,
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "notes": "01 27"
+}
